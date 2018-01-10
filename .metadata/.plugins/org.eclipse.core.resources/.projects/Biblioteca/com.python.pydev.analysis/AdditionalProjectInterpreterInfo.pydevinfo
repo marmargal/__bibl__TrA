@@ -1,0 +1,73 @@
+-- VERSION_4
+-- START DISKCACHE_2
+C:\Users\jucan\Desktop\Programacion\AII\repositorio\__bibl__TrA\.metadata\.plugins\org.eclipse.core.resources\.projects\Biblioteca\com.python.pydev.analysis\v2_indexcache
+Biblioteca.urls|1515510176646724000|C:\Users\jucan\Desktop\Programacion\AII\repositorio\__bibl__TrA\Biblioteca\Biblioteca\urls.py
+Biblioteca.__init__|1515510176613433000|C:\Users\jucan\Desktop\Programacion\AII\repositorio\__bibl__TrA\Biblioteca\Biblioteca\__init__.py
+Biblioteca.wsgi|1515510176653950000|C:\Users\jucan\Desktop\Programacion\AII\repositorio\__bibl__TrA\Biblioteca\Biblioteca\wsgi.py
+principal.views|1515510176744823000|C:\Users\jucan\Desktop\Programacion\AII\repositorio\__bibl__TrA\Biblioteca\principal\views.py
+principal.__init__|1515510176723444000|C:\Users\jucan\Desktop\Programacion\AII\repositorio\__bibl__TrA\Biblioteca\principal\__init__.py
+principal.models|1515510176730714000|C:\Users\jucan\Desktop\Programacion\AII\repositorio\__bibl__TrA\Biblioteca\principal\models.py
+principal.tests|1515510176737817000|C:\Users\jucan\Desktop\Programacion\AII\repositorio\__bibl__TrA\Biblioteca\principal\tests.py
+Biblioteca.settings|1515510176631989000|C:\Users\jucan\Desktop\Programacion\AII\repositorio\__bibl__TrA\Biblioteca\Biblioteca\settings.py
+manage|1515510176722442000|C:\Users\jucan\Desktop\Programacion\AII\repositorio\__bibl__TrA\Biblioteca\manage.py
+-- END DISKCACHE
+-- START DICTIONARY
+9
+8=Comment
+5=Biblioteca.urls
+2=Biblioteca.wsgi
+6=Book
+3=principal.models
+7=Reader
+9=SimpleTest
+4=principal.tests
+1=Biblioteca.settings
+-- END DICTIONARY
+-- START TREE 1
+26
+adm|1|ADMINS!11@
+all|1|ALLOWED_HOSTS!11@
+app|1|application!19@
+boo|1|Book!25@
+com|1|Comment!25@
+dat|1|DATABASES!11@
+deb|1|DEBUG!11@
+ins|1|INSTALLED_APPS!11@
+lan|1|LANGUAGE_CODE!11@
+log|1|LOGGING!11@
+man|1|MANAGERS!11@
+med|2|MEDIA_URL!11@MEDIA_ROOT!11@
+mid|1|MIDDLEWARE_CLASSES!11@
+rea|1|Reader!25@
+roo|1|ROOT_URLCONF!11@
+rut|1|RUTA_PROYECTO!11@
+sec|1|SECRET_KEY!11@
+ses|1|SESSION_SERIALIZER!11@
+sim|1|SimpleTest!33@
+sit|1|SITE_ID!11@
+sta|4|STATIC_ROOT!11@STATICFILES_DIRS!11@STATIC_URL!11@STATICFILES_FINDERS!11@
+tem|3|TEMPLATE_LOADERS!11@TEMPLATE_DEBUG!11@TEMPLATE_DIRS!11@
+tim|1|TIME_ZONE!11@
+url|1|urlpatterns!43@
+use|3|USE_I18N!11@USE_TZ!11@USE_L10N!11@
+wsg|1|WSGI_APPLICATION!11@
+-- END TREE
+-- START TREE 2
+16
+__u|3|__unicode__!6&26@__unicode__!7&26@__unicode__!8&26@
+aut|1|autor!6&27@
+boo|2|book!7&27@book!8&27@
+com|1|comment!8&27@
+des|1|description!6&27@
+idb|1|idBook!6&27@
+idc|1|idComment!8&27@
+idr|1|idReader!7&27@
+isb|1|ISBN!6&27@
+nam|1|name!7&27@
+rea|1|reader!8&27@
+sex|1|sex!7&27@
+sta|1|stars!8&27@
+sto|1|stock!6&27@
+tes|1|test_basic_addition!9&34@
+tit|1|title!6&27@
+-- END TREE

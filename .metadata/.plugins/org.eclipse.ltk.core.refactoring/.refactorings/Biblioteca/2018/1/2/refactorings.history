@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;Biblioteca/Biblioteca/Templates/nuevoUsuario.html&apos; to &apos;nuevousuario.html&apos;" description="Rename resource &apos;nuevoUsuario.html&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="Biblioteca/Templates/nuevoUsuario.html" name="nuevousuario.html" stamp="1515585380463" updateReferences="true"/>
+</session>

@@ -1,0 +1,35 @@
+'''
+Created on 10 ene. 2018
+
+@author: jucan
+'''
+
+from bs4 import BeautifulSoup
+from pip._vendor import requests
+
+def obtener_categorias():
+    req = requests.get("https://www.amazon.es/Libros-Categorias/b/ref=sv_b_0?ie=UTF8&node=599365031")
+    data = req.text
+    soup = BeautifulSoup(data, 'html.parser')
+    
+    categorias = []
+    
+    for c in soup.find_all(class_= "vxd-brand-tile-links"):
+        cat = c.find('a').get_text()
+        enlace = c.find('a').get('href')
+        
+        categorias.append([cat, "https://www.amazon.es"+enlace])
+        
+    return categorias
+        
+def obtener_libros_categoria():
+    
+    Libros_categoria = []
+    
+    for c in obtener_categorias():
+        req = requests.get(c[1])
+        data = req.text
+        soup = BeautifulSoup(data, 'html.parser')
+        
+        for libro in soup.find_all("h2", attrs={"class":"a-size-medium s-inline s-access-title a-text-normal"}):
+            print libro.text
