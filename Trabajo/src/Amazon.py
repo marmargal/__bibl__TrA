@@ -59,7 +59,7 @@ def obtener_libros_categoria():
                 Autores.append(autor)
                 
         for i in zip(Libros, Autores):
-            if [c[0],i] not in res:  res.append([c[0], i])
+            if [c[0],i[0], i[1]] not in res:  res.append([c[0], i[0],i[1]])
             
         #for r in res: print r
         
