@@ -54,10 +54,12 @@ def listar_bd():
 
 def ventana():
     top = Tk()
-    almacenar = Button(top, text="Almacenar libros", command=almacenar_libros())
+    almacenar = Button(top, text="Almacenar libros", command=almacenar_libros)
     almacenar.pack(side=LEFT)
-    listar = Button(top, text="Listar libros", command=listar_bd())
+    listar = Button(top, text="Listar libros", command=listar_bd)
     listar.pack(side=LEFT)
+    salir = Button(top,text="Salir", command=exit)
+    salir.pack(side=LEFT)
     top.mainloop()    
     
 
