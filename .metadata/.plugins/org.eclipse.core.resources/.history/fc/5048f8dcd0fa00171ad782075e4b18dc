@@ -8,10 +8,26 @@ urlpatterns = patterns('',
     # Examples:
     # url(r'^$', 'Biblioteca.views.home', name='home'),
     # url(r'^Biblioteca/', include('Biblioteca.foo.urls')),
+    
 
     # Uncomment the admin/doc line below to enable admin documentation:
     url(r'^admin/doc/', include('django.contrib.admindocs.urls')),
 
     # Uncomment the next line to enable the admin:
     url(r'^admin/', include(admin.site.urls)),
+    
+    #nuevoUsuario
+    url(r'^usuario/nuevo$','principal.views.nuevo_usuario'),
+    
+    #ingresar usuario
+    url(r'^ingresar/$','principal.views.ingresar'),
+    
+    #ingresar mejorado privado
+    url(r'^privado/$','principal.views.privado'),
+    
+    #Cierre de sesion
+    url(r'^cerrar/$', 'principal.views.cerrar'),
+    
+     
+    
 )

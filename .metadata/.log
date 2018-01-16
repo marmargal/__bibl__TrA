@@ -1609,3 +1609,15 @@ org.eclipse.wst.xml.core.internal.document.StructuredDocumentRegionManagementExc
 	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:673)
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:610)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1519)
+
+!ENTRY org.eclipse.ui 4 4 2018-01-16 16:16:03.565
+!MESSAGE Conflicting handlers for org.python.pydev.editor.actions.execLineInConsole: {ActionHandler(org.python.proxies.__main__$ExecuteLine$11@225d6782)} vs {ActionHandler(org.python.proxies.__main__$ExecuteLine$11@225d6782)}
+
+!ENTRY org.eclipse.ui 4 4 2018-01-16 16:16:03.580
+!MESSAGE Conflicting handlers for org.python.pydev.editor.actions.execLineInConsole: {ActionHandler(org.python.proxies.__main__$ExecuteLine$11@225d6782)} vs {ActionHandler(org.python.proxies.__main__$ExecuteLine$11@225d6782)}
+
+!ENTRY org.eclipse.jface.text 2 0 2018-01-16 16:27:48.274
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.number'
+
+!ENTRY org.eclipse.jface.text 2 0 2018-01-16 16:27:48.286
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.round'

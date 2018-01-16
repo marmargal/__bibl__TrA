@@ -1,2 +1,6 @@
+
+TODO:
+	- Cambiar el idioma en el html de nousuario para poder poner contraseÑa
+
 - En Pattern Clips hay para medir la positividad de los comentarios. Tiene que ser en inglés. Habría que traducirlo con otro pluging de Google Translate que también viene ahí.
 - 
