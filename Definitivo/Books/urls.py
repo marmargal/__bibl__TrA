@@ -14,7 +14,7 @@ urlpatterns = patterns('',
     url(r'^admin/', include(admin.site.urls)),
     
      #nuevoUsuario
-    url(r'^base$','principal.views.base'),
+    url(r'^header$','principal.views.header'),
     
     #nuevoUsuario
     url(r'^nuevousuario$','principal.views.nuevo_usuario'),

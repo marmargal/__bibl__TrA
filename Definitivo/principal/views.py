@@ -28,8 +28,8 @@ def loadRS(request):
     books = Book.objects.all()
     return render_to_response('loadRS.html', {'datos':books}, context_instance = RequestContext(request))
 
-def base(request):
-    return render_to_response('base.html')
+def header(request):
+    return render_to_response('header.html')
 
 #creacion usuario
 def nuevo_usuario(request):

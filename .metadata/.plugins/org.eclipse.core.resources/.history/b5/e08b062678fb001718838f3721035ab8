@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang='es'>
+<head>
+	<meta charset='utf-8'>
+	<title>Biblioteca - {% block titulo %}{% endblock %}</title>
+	<style>
+	{% block style_css %}{% endblock %}
+	</style>
+</head>
+<body>
+	<header>
+		{% block encabezado %}{% endblock %}
+		<nav>
+			<ul>
+				<li><a href='/'>Inicio</a></li>
+				<li><a href='/nuevousuario'>Registro</a></li>
+				<li><a href='/ingresar'>Ingresar</a></li>
+				<li><a href='/cerrar'>Cerrar</a></li>
+			</ul>
+		</nav>
+		<hr>	
+	</header>
+	<section class='contenido'>
+		{% block contenido %}{% endblock %}
+	</section>
+	<footer>
+		<p>Proyecto de AII para una biblioteca con libros de amazon</p>
+	</footer>
+</body>
+
+</html>
