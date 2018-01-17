@@ -1,0 +1,21 @@
+<html>
+<head>
+<title>Recommender System Movielens</title>
+</head>
+<body>
+{% include 'header.html' %}
+<h1>Data loaded for the recommendation system</h1>
+
+    <section>
+    <h1>Book</h1>
+    <ul>
+    	{% for dato in datos %}
+    	<li>
+    		{{dato.title}}<br>
+    	</li>
+    	{% endfor %}
+    </ul>
+    </section>
+  </body>
+</body>
+</html>

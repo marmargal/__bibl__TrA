@@ -1,10 +1,10 @@
 -- VERSION_4
 -- START DISKCACHE_2
 C:\Users\jucan\Desktop\Programacion\AII\repositorio\__bibl__TrA\.metadata\.plugins\org.eclipse.core.resources\.projects\Biblioteca\com.python.pydev.analysis\v2_indexcache
-Biblioteca.urls|1515585128541574000|C:\Users\jucan\Desktop\Programacion\AII\repositorio\__bibl__TrA\Biblioteca\Biblioteca\urls.py
+Biblioteca.urls|1515755260228328000|C:\Users\jucan\Desktop\Programacion\AII\repositorio\__bibl__TrA\Biblioteca\Biblioteca\urls.py
 Biblioteca.__init__|1515510176613433000|C:\Users\jucan\Desktop\Programacion\AII\repositorio\__bibl__TrA\Biblioteca\Biblioteca\__init__.py
 Biblioteca.wsgi|1515510176653950000|C:\Users\jucan\Desktop\Programacion\AII\repositorio\__bibl__TrA\Biblioteca\Biblioteca\wsgi.py
-principal.views|1515587455042481000|C:\Users\jucan\Desktop\Programacion\AII\repositorio\__bibl__TrA\Biblioteca\principal\views.py
+principal.views|1515753012120662000|C:\Users\jucan\Desktop\Programacion\AII\repositorio\__bibl__TrA\Biblioteca\principal\views.py
 principal.__init__|1515510176723444000|C:\Users\jucan\Desktop\Programacion\AII\repositorio\__bibl__TrA\Biblioteca\principal\__init__.py
 principal.models|1515510176730714000|C:\Users\jucan\Desktop\Programacion\AII\repositorio\__bibl__TrA\Biblioteca\principal\models.py
 principal.tests|1515510176737817000|C:\Users\jucan\Desktop\Programacion\AII\repositorio\__bibl__TrA\Biblioteca\principal\tests.py
@@ -25,11 +25,12 @@ manage|1515510176722442000|C:\Users\jucan\Desktop\Programacion\AII\repositorio\_
 1=Biblioteca.settings
 -- END DICTIONARY
 -- START TREE 1
-28
+30
 adm|1|ADMINS!11@
 all|1|ALLOWED_HOSTS!11@
 app|1|application!19@
 boo|1|Book!25@
+cer|1|cerrar!34@
 com|1|Comment!25@
 dat|1|DATABASES!11@
 deb|1|DEBUG!11@
@@ -41,6 +42,7 @@ man|1|MANAGERS!11@
 med|2|MEDIA_URL!11@MEDIA_ROOT!11@
 mid|1|MIDDLEWARE_CLASSES!11@
 nue|1|nuevo_usuario!34@
+pri|1|privado!34@
 rea|1|Reader!25@
 roo|1|ROOT_URLCONF!11@
 rut|1|RUTA_PROYECTO!11@

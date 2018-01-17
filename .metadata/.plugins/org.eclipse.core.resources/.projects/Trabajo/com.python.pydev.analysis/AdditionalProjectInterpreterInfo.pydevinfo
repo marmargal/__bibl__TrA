@@ -1,0 +1,23 @@
+-- VERSION_4
+-- START DISKCACHE_2
+C:\Users\jucan\Desktop\Programacion\AII\repositorio\__bibl__TrA\.metadata\.plugins\org.eclipse.core.resources\.projects\Trabajo\com.python.pydev.analysis\v2_indexcache
+src.Datos|1516095992975679000|C:\Users\jucan\Desktop\Programacion\AII\repositorio\__bibl__TrA\Trabajo\src\Datos.py
+src.__init__|1515751278624300000|C:\Users\jucan\Desktop\Programacion\AII\repositorio\__bibl__TrA\Trabajo\src\__init__.py
+src.Amazon|1515756485635347000|C:\Users\jucan\Desktop\Programacion\AII\repositorio\__bibl__TrA\Trabajo\src\Amazon.py
+-- END DISKCACHE
+-- START DICTIONARY
+2
+1=src.Datos
+2=src.Amazon
+-- END DICTIONARY
+-- START TREE 1
+5
+alm|1|almacenar_libros!10@
+imp|1|imprimir_etiqueta!10@
+lis|1|listar_bd!10@
+obt|2|obtener_categorias!18@obtener_libros_categoria!18@
+ven|1|ventana!10@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

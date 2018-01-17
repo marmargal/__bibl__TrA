@@ -1,5 +1,5 @@
-INSTUPBiblioteca.urls
-C:\Users\jucan\Desktop\Programacion\AII\repositorio\__bibl__TrA\Biblioteca\Biblioteca\urls.py
+INSTUPBiblioteca.wsgi
+C:\Users\jucan\Desktop\Programacion\AII\repositorio\__bibl__TrA\Biblioteca\Biblioteca\wsgi.py
 INFOS:&&3|1|2|0
-Biblioteca.urls=2
-urlpatterns=1
+application=1
+Biblioteca.wsgi=2
