@@ -1,0 +1,13 @@
+MODULES_MANAGER_V2
+Books.__init__|C:\Users\jucan\Desktop\Programacion\AII\repositorio\__bibl__TrA\Definitivo\Books\__init__.py
+Books.settings|C:\Users\jucan\Desktop\Programacion\AII\repositorio\__bibl__TrA\Definitivo\Books\settings.py
+Books.urls|C:\Users\jucan\Desktop\Programacion\AII\repositorio\__bibl__TrA\Definitivo\Books\urls.py
+Books.wsgi|C:\Users\jucan\Desktop\Programacion\AII\repositorio\__bibl__TrA\Definitivo\Books\wsgi.py
+manage|C:\Users\jucan\Desktop\Programacion\AII\repositorio\__bibl__TrA\Definitivo\manage.py
+principal.__init__|C:\Users\jucan\Desktop\Programacion\AII\repositorio\__bibl__TrA\Definitivo\principal\__init__.py
+principal.admin|C:\Users\jucan\Desktop\Programacion\AII\repositorio\__bibl__TrA\Definitivo\principal\admin.py
+principal.forms|C:\Users\jucan\Desktop\Programacion\AII\repositorio\__bibl__TrA\Definitivo\principal\forms.py
+principal.models|C:\Users\jucan\Desktop\Programacion\AII\repositorio\__bibl__TrA\Definitivo\principal\models.py
+principal.populate|C:\Users\jucan\Desktop\Programacion\AII\repositorio\__bibl__TrA\Definitivo\principal\populate.py
+principal.tests|C:\Users\jucan\Desktop\Programacion\AII\repositorio\__bibl__TrA\Definitivo\principal\tests.py
+principal.views|C:\Users\jucan\Desktop\Programacion\AII\repositorio\__bibl__TrA\Definitivo\principal\views.py

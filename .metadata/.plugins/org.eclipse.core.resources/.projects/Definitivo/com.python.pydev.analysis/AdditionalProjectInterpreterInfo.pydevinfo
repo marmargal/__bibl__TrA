@@ -1,0 +1,78 @@
+-- VERSION_4
+-- START DISKCACHE_2
+C:\Users\jucan\Desktop\Programacion\AII\repositorio\__bibl__TrA\.metadata\.plugins\org.eclipse.core.resources\.projects\Definitivo\com.python.pydev.analysis\v2_indexcache
+Books.settings|1516109848000000000|C:\Users\jucan\Desktop\Programacion\AII\repositorio\__bibl__TrA\Definitivo\Books\settings.py
+principal.admin|1516119064000000000|C:\Users\jucan\Desktop\Programacion\AII\repositorio\__bibl__TrA\Definitivo\principal\admin.py
+Books.__init__|1516107196000000000|C:\Users\jucan\Desktop\Programacion\AII\repositorio\__bibl__TrA\Definitivo\Books\__init__.py
+principal.forms|1513581460000000000|C:\Users\jucan\Desktop\Programacion\AII\repositorio\__bibl__TrA\Definitivo\principal\forms.py
+principal.views|1516183060971000000|C:\Users\jucan\Desktop\Programacion\AII\repositorio\__bibl__TrA\Definitivo\principal\views.py
+Books.wsgi|1516107196000000000|C:\Users\jucan\Desktop\Programacion\AII\repositorio\__bibl__TrA\Definitivo\Books\wsgi.py
+principal.__init__|1516107252000000000|C:\Users\jucan\Desktop\Programacion\AII\repositorio\__bibl__TrA\Definitivo\principal\__init__.py
+principal.models|1516119626000000000|C:\Users\jucan\Desktop\Programacion\AII\repositorio\__bibl__TrA\Definitivo\principal\models.py
+principal.tests|1516107252000000000|C:\Users\jucan\Desktop\Programacion\AII\repositorio\__bibl__TrA\Definitivo\principal\tests.py
+Books.urls|1516183359718000000|C:\Users\jucan\Desktop\Programacion\AII\repositorio\__bibl__TrA\Definitivo\Books\urls.py
+principal.populate|1516120138000000000|C:\Users\jucan\Desktop\Programacion\AII\repositorio\__bibl__TrA\Definitivo\principal\populate.py
+manage|1516107196000000000|C:\Users\jucan\Desktop\Programacion\AII\repositorio\__bibl__TrA\Definitivo\manage.py
+-- END DISKCACHE
+-- START DICTIONARY
+12
+1=Books.settings
+11=FilmForm
+3=principal.views
+5=principal.forms
+9=Book
+2=Books.wsgi
+4=principal.models
+12=SimpleTest
+7=principal.tests
+8=Books.urls
+6=principal.populate
+10=UserForm
+-- END DICTIONARY
+-- START TREE 1
+35
+adm|1|ADMINS!11@
+all|1|ALLOWED_HOSTS!11@
+app|1|application!19@
+bas|1|base!26@
+boo|1|Book!33@
+cer|1|cerrar!26@
+dat|1|DATABASES!11@
+deb|1|DEBUG!11@
+fil|1|FilmForm!41@
+ind|1|index!26@
+ing|1|ingresar!26@
+ins|1|INSTALLED_APPS!11@
+lan|1|LANGUAGE_CODE!11@
+loa|1|loadRS!26@
+log|1|LOGGING!11@
+man|1|MANAGERS!11@
+med|2|MEDIA_ROOT!11@MEDIA_URL!11@
+mid|1|MIDDLEWARE_CLASSES!11@
+nue|1|nuevo_usuario!26@
+pat|1|path!51@
+pop|3|populateDB!26@populateBooks!50@populateDatabase!50@
+pri|1|privado!26@
+roo|1|ROOT_URLCONF!11@
+rut|1|RUTA_PROYECTO!11@
+sea|1|search!26@
+sec|1|SECRET_KEY!11@
+ses|1|SESSION_SERIALIZER!11@
+sim|1|SimpleTest!57@
+sit|1|SITE_ID!11@
+sta|4|STATICFILES_FINDERS!11@STATIC_ROOT!11@STATICFILES_DIRS!11@STATIC_URL!11@
+tem|3|TEMPLATE_DEBUG!11@TEMPLATE_LOADERS!11@TEMPLATE_DIRS!11@
+tim|1|TIME_ZONE!11@
+url|1|urlpatterns!67@
+use|4|USE_I18N!11@USE_TZ!11@USE_L10N!11@UserForm!41@
+wsg|1|WSGI_APPLICATION!11@
+-- END TREE
+-- START TREE 2
+6
+__u|1|__unicode__!9&34@
+aut|1|autor!9&35@
+cat|1|category!9&35@
+id|2|id!10&43@id!11&43@
+tes|1|test_basic_addition!12&58@
+tit|1|title!9&35@
+-- END TREE
